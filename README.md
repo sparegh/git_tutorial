@@ -1,2 +1,2 @@
 # git_tutorial
-author bharath
+author bharath kumar s
